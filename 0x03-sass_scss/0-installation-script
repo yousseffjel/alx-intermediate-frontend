@@ -1,0 +1,13 @@
+# Installed fnm (Fast Node Manager)
+curl -fsSL https://fnm.vercel.app/install | bash
+
+# Restarted terminal and added fnm to shell config
+
+# Installed and used Node.js version 20.16.0
+fnm install 20.16.0
+fnm use 20.16.0
+fnm default 20.16.0
+
+# Installed SASS version 3.7.4
+npm install sass@3.7.4
+
